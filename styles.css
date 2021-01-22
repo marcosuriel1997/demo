@@ -10,3 +10,10 @@ body{
     font-family:cursive;
     font-weight: bold;
 }
+.btn{
+    display: block;
+    background: blueviolet;
+    color: coral;
+    font-size: larger;
+    margin: auto;
+}
