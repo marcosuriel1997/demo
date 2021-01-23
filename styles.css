@@ -17,3 +17,8 @@ body{
     font-size: larger;
     margin: auto;
 }
+h4{
+    font-size: 20px;
+    text-justify: auto;
+    font-weight: bold
+}
