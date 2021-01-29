@@ -2,23 +2,27 @@ body{
     background: rgb(148, 15, 224);
     color: white;
     text-align: center;
-    font-size: 40px;
+    font-size: 25px;
 }
 .test{
-    font-size: 30px;
+    font-size: 20px;
     text-justify: auto;
     font-family:cursive;
     font-weight: bold;
 }
-.btn{
-    display: block;
-    background: blueviolet;
-    color: coral;
-    font-size: larger;
-    margin: auto;
-}
+
 h4{
     font-size: 20px;
     text-justify: auto;
-    font-weight: bold
+    font-weight: bold;
+    background: azure;
+    padding: 4px;
+    color: black;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 2%;
+}
+.porsentaje{
+    width: 50%;
+    margin: auto;
 }
